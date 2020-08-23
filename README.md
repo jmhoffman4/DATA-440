@@ -7,5 +7,5 @@ Agent-Based Modelling Fall 2020
 ## DANNY PRESENTS:
 ![](Danny1.jpg)
 
-## Getting Started: Challenge
+## Challenge: Getting Started
 ![](GettingStarted.png)
