@@ -4,5 +4,8 @@
 # DATA-440
 Agent-Based Modelling Fall 2020
 
-## DANNY
+## DANNY PRESENTS:
 ![](Danny1.jpg)
+
+## Getting Started: Challenge
+![](GettingStarted.png)
