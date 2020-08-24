@@ -9,5 +9,5 @@ Agent-Based Modelling Fall 2020
 ![](Danny1.jpg)
 
 ## Exercise 1
-![](Exercise1.md)
+[Exercise 1](Exercise1.md)
 ![](GettingStarted.png)
