@@ -1,4 +1,4 @@
 # Challenge: Getting Started
 
-![](GettingStarted.png)
+![](GettingStarted.png)\
 [Getting Started Script](RScript.R)
