@@ -12,4 +12,3 @@ Agent-Based Modelling Fall 2020
 ## Exercise 1
 [Exercise 1 Link](Exercise1.md)
 
-![](liberia.png)
