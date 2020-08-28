@@ -14,3 +14,6 @@
 
 ### Projecting, Plotting and Labelling Administrative Subdivisions (8/26):
 [Results](8_26.md)
+\
+### Extracting Populations from a Raster and Aggregating to each Unit (8/28):
+[Results](8_28.md)
