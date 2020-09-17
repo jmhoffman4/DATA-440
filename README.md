@@ -19,3 +19,6 @@
 
 ### Project 1:
 [Results](Project1.md)
+
+### Insights:
+[Paper](Insights.md)
