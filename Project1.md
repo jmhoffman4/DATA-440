@@ -20,3 +20,6 @@ Settlements are largely close together in these regions of Palestine. There is v
 
 
 It should be noted that given the level of roadway mapped, Jericho lacks roadways other than the main one going through the center. A possible explanation for this is that there is a large network of smaller roads that is not captured in the plot. Although, taking into account only whats shown on the plot, it can be assumed that travel laterally through Jericho is not as easy as traveling North to South. There is however, am intricate network of lateral and vertical roadways in Ramallah and Al-Bireh, a region West of Jericho that is not included in the plot. There is a much more comprehensive road network in Jerusalem, which is to be expected given the large nature of the settlement relative to the rest of the area. The large amount of HCF's in Jerusalem neccesitate a more advanced transportation infrastructure compared to Jericho, which only has one hospital at the end of the main highway.
+## Part 1d
+
+### Topography:
