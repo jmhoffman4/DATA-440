@@ -10,7 +10,7 @@
 ![](Danny1.jpg)
 
 ## Project 1:
-[Results](Project1.md)
+[Click Here for Project 1](Project1.md)
 
 ### Exercise 1
 [Exercise 1 Link](Exercise1.md)
