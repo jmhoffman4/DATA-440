@@ -15,7 +15,7 @@ The densest settlements are mostly around central Jericho, there are also main r
 ## Part 1c
 
 ### Provide an analysis of the system of settlements sizes and relative location to one another:
-
+Settlements are largely close together in these regions of Palestine. There is vast space of sparsely populated areas for the majority of space, with a handful of larger settlements in the central area of both Jericho and Jerusalem. As mentioned above, it is likely that larger settlements in Jerusalem are not included in the plot, probably due ot a coding error.
 
 ### Provide an analysis of the transportation network and its capacity to facilitate access across your selected area:
 
