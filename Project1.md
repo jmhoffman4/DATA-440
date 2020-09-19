@@ -5,3 +5,5 @@
 
 
 ## Part 1b: Plot of the de facto settlement boundaries with geometric measures of population and density for all locations.
+
+![](defacto.png)
