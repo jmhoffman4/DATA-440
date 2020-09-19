@@ -6,7 +6,7 @@
 
 ## Part 1b: Plot of the de facto settlement boundaries with geometric measures of population and density for all locations.
 
-![](defacto.png)
+![](defacto_.png)
 ### Also, include a description and analysis of the system of settlements that populate your selected location:
 
 
