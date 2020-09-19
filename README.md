@@ -6,8 +6,11 @@
 
 
 
-## DANNY PRESENTS:
+# DANNY PRESENTS:
 ![](Danny1.jpg)
+
+## Project 1:
+[Results](Project1.md)
 
 ### Exercise 1
 [Exercise 1 Link](Exercise1.md)
@@ -16,9 +19,6 @@
 [Results](8_26.md)
 ### Extracting Populations from a Raster and Aggregating to each Unit (8/28):
 [Results](8_28.md)
-
-### Project 1:
-[Results](Project1.md)
 
 ### Insights:
 [Paper](Insights.md)
