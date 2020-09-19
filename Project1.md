@@ -23,3 +23,8 @@ It should be noted that given the level of roadway mapped, Jericho lacks roadway
 ## Part 1d
 
 ### Topography:
+I actually was able to get the topography working about 3/4 days ago, but have been unable to since moving to a new more concise script. The issue I ran into was the function PNG::Readpng() not working and telling me that my png file was not a png. I workshopped this issue multiple times and could not find a way to overcome it in time for submission, although I will be revisting it later to see if I can get it working, any tips on this are appreciated of course!!
+
+## CODE:
+
+[link to download Project 1 code](Project1.R)
