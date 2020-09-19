@@ -1,7 +1,7 @@
 # Project 1:
 
 ## Part 1a: Geometric Bar Plot 
-![]()
+![](jer_jer.png)
 
 ### Stretch Goals:
 n/a
