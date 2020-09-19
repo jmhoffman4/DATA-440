@@ -3,10 +3,8 @@
 ## Part 1a: Geometric Bar Plot 
 ![](jer_jer.png)
 
-### Stretch Goals:
-n/a
 
-## Part 1b: define de facto settlement boundaries
+## Part 1b: Plot of the de facto settlement boundaries with geometric measures of population and density for all locations.
 
-![](jerusalem_1.png)
+![](de_facto.png)
 
