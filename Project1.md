@@ -1,7 +1,7 @@
 # Project 1:
 
-## Part 1a: site selection
-![](palestine.png)
+## Part 1a: Geometric Bar Plot 
+![]()
 
 ### Stretch Goals:
 n/a
