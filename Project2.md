@@ -1,5 +1,5 @@
 ## Wed. Sept. 30:
-Identify:
+Identify: \
 i.	Survey Weights = hv005 \
 ii.	Number of Household Members = hv009 \
 iii.	Location of your selected research area =  \
