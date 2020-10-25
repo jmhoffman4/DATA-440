@@ -9,8 +9,11 @@
 # DANNY PRESENTS:
 ![](Danny1.jpg)
 
+## Projects:
 ## Project 1:
 [Click Here for Project 1](Project1.md)
+## Project 2:
+[Click Here for Project 2](Project2.md)
 
 ### Exercise 1
 [Exercise 1 Link](Exercise1.md)
@@ -21,4 +24,8 @@
 [Results](8_28.md)
 
 ### Insights:
-[Paper](Insights.md)
+[Insights 1](Insights.md)
+[Insights 2]
+
+
+
