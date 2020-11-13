@@ -1,1 +1,1 @@
-![](IN-CLASS_ESSAY.docx)
+[Essay Link](IN-CLASS_ESSAY.docx)
