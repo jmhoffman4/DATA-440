@@ -24,4 +24,4 @@ The first approach to mapping households at the adm0 level was to appoint observ
    Percent error calculated was: 0.005292524. I found this with the following code: “nrow(pns) / cellStats(tgo_raster_pop19, 'sum') # person sample proportion” \
    
    It is hard for me to say in terms of percent error calculated whether or not this is a more accurate design. This is because of the issues I ran into when calculating error in the adm0 level design. Although intuitively this seems more accurate. There are many improvements that could be made here. Firstly, I am overall unsure of the precision of the error terms in both the adm0 and adm1 level designs. It is clear at this stage that computational difficulties hindered my ability to extract accurate information from my model. One of these improvements would be improving my code overall, as some of the parameters may be not fit the data in the correct way and be affecting the outcomes. I also could use adm2 level information to improve accuracy. \ Below is a geom Density plot description of my dataset.
-   
+![](DensityPlot.png)
