@@ -6,4 +6,10 @@ After requesting household survey data for Palestine (my original country of cho
 
 The sum of hhs weights is similar to the number of rows in the survey data, although there was a slightly odd occurrence. The sum of weights adds up to the same combination of numbers as the nrows, but is multiplied by a factor of 6, such that the division of sum(hhs$weights)/nrow(hhs) = 1e+06. \ 
 The first approach to mapping households at the adm0 level was to appoint observations from the household data to random points, tailored to the population density raster from worldpop. This approach resulted in the following map, where each dot is a household/observation. \
-![]
+![](tgo_households_rpoint.png)
+\
+To generate the household structure in a way that contained appropriate demographic information, I had to pivot the data from the DHS. The first step was to create separate dataframes for sex, age, education, wealth, household size, survey weight, and household location. Then, using cbind(), I was able to create a master dataframe containing all the demographic and location information for the dataset. Then it is time to create the pivot objects [from the master dataframe] for sex, age, and education. I struggled with indexing these commands correctly. Using negative indexing resulted in unexpected dimensions of the data, which genuinely confused me, I workshopped this issue for an extensive period of time. My solution was to create a custom list of all of the column numbers I needed to capture [with c()] and went from there, this was successful.
+\
+Percent error calculated was 999862.3, using: “abs((nrow(tgo_hhs_locs) - sum(tgo_hhs_locs$weights)) / nrow(tgo_hhs_locs))” This led me to believe that an error occurred, although I was unable to determine the nature of this. 
+
+## 3.
