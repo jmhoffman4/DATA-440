@@ -15,17 +15,17 @@ The first approach to mapping households at the adm0 level was to appoint observ
 ## 3.	Provide a written description of your spatially located households at the adm1 or adm2 level of your selected location, again including how you located each household, generated the household structure including demographic attributes of persons, and the percent error calculated. Further analyze your synthetically generated households and persons with regard to percent error. Do you think this population is more or less accurate than the one generated at the adm0 level? What could you have done to improve your measures of accuracy?
 
    Using the same pivoted data as before, I was able to retain all demographic information that we needed. I decided to use adm1 level data to place my households. 
-\
+   \
    Using a sample of locations from the adm1 level simple features object, controlled using the hhs dataset and its locations values. I achieved this by running the following line: “tgo1_dhslocs <- st_sample(tgo_adm1_sf, table(hhs$location))” and then plotting that object over the sf. This resulted in the following map, which seems much more realistic than the previous version which used rpoint. 
-\
+   \
 
 ![](tgo_households_adm1.png)
 
-   These household observations retained the demographic information that was assigned earlier. This allows you to analyze differences in these areas across regions. This analysis is probably more accurate than if you conducted it on the previous households using rpoint. I can assume this because the distribution of population across regions is more accurate in terms of population density. 
-\
+   These household observations retained the demographic information that was assigned earlier. This allows you to analyze differences in these areas across regions. This analysis is probably more accurate than if you conducted it on the previous households using rpoint. I can assume this because the distribution of population across regions is more accurate in terms of population density.
+   \
 
    Percent error calculated was: 0.005292524. I found this with the following code: “nrow(pns) / cellStats(tgo_raster_pop19, 'sum') # person sample proportion” 
-\
+   \
    
    It is hard for me to say in terms of percent error calculated whether or not this is a more accurate design. This is because of the issues I ran into when calculating error in the adm0 level design. Although intuitively this seems more accurate. There are many improvements that could be made here. Firstly, I am overall unsure of the precision of the error terms in both the adm0 and adm1 level designs. It is clear at this stage that computational difficulties hindered my ability to extract accurate information from my model. One of these improvements would be improving my code overall, as some of the parameters may be not fit the data in the correct way and be affecting the outcomes. I also could use adm2 level information to improve accuracy.
    
