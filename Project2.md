@@ -14,7 +14,7 @@ The first approach to mapping households at the adm0 level was to appoint observ
 
 ## 3.	Provide a written description of your spatially located households at the adm1 or adm2 level of your selected location, again including how you located each household, generated the household structure including demographic attributes of persons, and the percent error calculated. Further analyze your synthetically generated households and persons with regard to percent error. Do you think this population is more or less accurate than the one generated at the adm0 level? What could you have done to improve your measures of accuracy?
 
-   Using the same pivoted data as before, I was able to retain all demographic information that we needed. I decided to use adm1 level data to place my households. \
+   Using the same pivoted data as before, I was able to retain all demographic information that we needed. I decided to use adm1 level data to place my households. I used a sample from Maritime, the most metropolitan of regions at the adm1 level. \
    Using a sample of locations from the adm1 level simple features object, controlled using the hhs dataset and its locations values. I achieved this by running the following line: “tgo1_dhslocs <- st_sample(tgo_adm1_sf, table(hhs$location))” and then plotting that object over the sf. This resulted in the following map, which seems slightly more realistic than the previous version which used rpoint. \
 
 ![](tgo_households_adm1.png)
