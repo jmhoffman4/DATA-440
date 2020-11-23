@@ -17,7 +17,8 @@
 [Click Here for Project 1](Project1.md)
 ## Project 2:
 [Click Here for Project 2](Project2.md)
-
+## Project 3:
+[Click Here for Project 3/Final Project](Project3.md)
 ### Exercise 1
 [Exercise 1 Link](Exercise1.md)
 
