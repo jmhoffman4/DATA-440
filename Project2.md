@@ -37,4 +37,4 @@ I was also unable to produce heatmaps that seemed to be useful. Using the raw da
 ![](raw.png)
 The script below encompasses what I was able to do with the data and does not include the functions and analyses that I was unsuccessful with. 
 
-
+[Script](P2_Final_Script.R)
