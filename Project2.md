@@ -35,6 +35,6 @@ I troubleshot this issue over the course of a couple of days and was completely 
 I was also unable to produce heatmaps that seemed to be useful. Using the raw data I was able to produce a single heatmap, although it is not what I expected. I also believe that it does not represent variation in the data in the same way that we expect it too. Overall this was a dissapointing end to a project which gave me many problems over the course of the class. Multiple attempts to troubleshoot over slack and email did not earn replies, which was also a significant setback as I was unable to attend office hours.
 
 ![](raw.png)
-The script below encompasses what I was able to do with the data and does not include the functions and analyses that I was unsuccessful with. 
+The script below encompasses what I was able to do with the data and does not include the functions and analyses that I was unsuccessful with. It will not run smoothly due to the fragmented nature of my successes and setbacks over the course of the project.
 
 [Script](P2_Final_Script.R)
