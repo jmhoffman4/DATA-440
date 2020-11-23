@@ -28,3 +28,9 @@ The first approach to mapping households at the adm0 level was to appoint observ
    This plot is consistent with the national average for household size, which was 4.6. The plot is clustered around 0-10 and tapers off significantly after that. This makes sense intuitively and implies that the adm1 level data is at least not horribly skewed.
    
 ## 4. When compared to a randomly generated synthetic population that describes the demographic attributes of households and persons, does yours more closely approximate reality? How is yours an improvement over a synthetic population that was generated in accordance with complete spatial randomness? Generate plots and incorporate results from your work as evidence in support of an argument that the synthetic population you generated is a good approximation of the reality that existed in your selected location at that given time.
+
+In creating the slice samples using the maritime adm1, I ran into another issue. My laptop was unable to allocate the memory required by the command: "b.	adm1_sampP <- slice_sample(hhs, n = maritime_hhs_n, replace = TRUE) \ 
+adm1_sampP1 <- slice_sample(maritime_hhs, n = maritime_hhs_n, replace = TRUE) \
+I troubleshot this issue over the course of a couple of days and was completely unsuccessful. Additionally, all online resources suggested using a different device to run the command, which I was unable to do.
+I was also unable to produce heatmaps that seemed to be useful. Using the raw data I was able to produce a single heatmap, although it is not what I expected. I also believe that it does not represent variation in the data in the same way that we expect it too. 
+
