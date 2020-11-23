@@ -6,9 +6,6 @@
 
 
 
-# DANNY PRESENTS:
-![](Danny1.jpg)
-
 ## Final Insight: Knowledge Creation In-Class Essay:
 [Click Here for Final Insight In-Class Essay](Final_Insight.md)
 
