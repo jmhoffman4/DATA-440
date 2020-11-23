@@ -34,3 +34,4 @@ adm1_sampP1 <- slice_sample(maritime_hhs, n = maritime_hhs_n, replace = TRUE) \
 I troubleshot this issue over the course of a couple of days and was completely unsuccessful. Additionally, all online resources suggested using a different device to run the command, which I was unable to do.
 I was also unable to produce heatmaps that seemed to be useful. Using the raw data I was able to produce a single heatmap, although it is not what I expected. I also believe that it does not represent variation in the data in the same way that we expect it too. Overall this was a dissapointing end to a project which gave me many problems over the course of the class. Multiple attempts to troubleshoot over slack and email did not earn replies, which was also a significant setback as I was unable to attend office hours.
 
+![](raw.png)
