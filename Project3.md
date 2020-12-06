@@ -44,4 +44,6 @@ The accuracy and precision of my own analysis is certainly not up to a professio
 This question includes one of my more major setbacks for the project. Due to the fact that I switched between countries multiple times over the course of the semester, I was unable to construct de facto settlements for Togo. As a result, the voronoi polygon portion of this proect remains unsuccessful. It is also worth noting the significant setback I faced in constructing my district_hhs_pop object, as my memory capacity did not allow for allocation of the vector.
 
 ### Scripts
-
+[Script 1](P3_1_transport.R)
+[Script 2](P3_gravity.R)
+[Script 3](P3_6_finalgravity.R)
