@@ -32,7 +32,7 @@ Using and pivoting the outmigration and inmigration statistics I was able to con
 
 ## Q4
 
-Shown below is the gif produced by my ODM and gravity model:
+Shown is the gif produced by my ODM and gravity model:
 ![](output.gif)
 
 To modify the number of points departing from each origin, I would apply weighting based on the relative populations of each subdivision. I am unsure as to the professional value of making a change like this.\
