@@ -10,3 +10,5 @@ Following the tutorial, I began to work on a gravity model of migration for Togo
 The distance between each location is shown in the table below:
 ![](_P3_D6.png)
 
+Migration flows between locations are shown here in the ODM:
+![](_P3_D3.png)
