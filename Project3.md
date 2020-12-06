@@ -29,3 +29,8 @@ Included below is density of emigration and immigration flow between the adm1 le
 The results shown in the figures above are a bit surprising, as the southern most region of Togo is by far the most populous, and I would expect it to have the most immigration and emigration due to the sheer difference in population among the other regions.
 
 Using and pivoting the outmigration and inmigration statistics I was able to construct the ODM. By applying the night-time lights statistics, I mapped flow in and out of each area separated by adm1 level boundaries, resulting in the immigration and emigration flows shown in figures above.
+
+## Q4
+
+Shown below is the gif produced by my ODM and gravity model:
+![](output.gif)
