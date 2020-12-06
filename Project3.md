@@ -40,3 +40,5 @@ I think it would be ideal for most any Data Scientist to be able to accurately s
 The accuracy and precision of my own analysis is certainly not up to a professional standard. Given more time to accurately produce this research, the gravity model could potentially map highly accurate movements of the population over an extended period time.\
 
 ## Q5
+
+This question includes one of my more major setbacks for the project. Due to the fact that I switched between countries multiple times over the course of the semester, I was unable to construct de facto settlements for Togo. As a result, the voronoi polygon portion of this proect remains unsuccessful.
