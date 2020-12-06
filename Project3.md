@@ -12,3 +12,11 @@ The distance between each location is shown in the table below:
 
 Migration flows between locations are shown here in the ODM:
 ![](_P3_D3.png)
+
+I used the 2016 night-time lights data provided by WorldPop. These values are presented below:
+
+![](_P3_D7.png)
+
+A description of the center points for destinations and origins is provided below. The matrix is 20x2.
+![](_P3_D8.png)
+
