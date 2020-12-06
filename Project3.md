@@ -20,3 +20,9 @@ I used the 2016 night-time lights data provided by WorldPop. These values are pr
 A description of the center points for destinations and origins is provided below. The matrix is 20x2.
 ![](_P3_D8.png)
 
+
+## Q3
+
+Included below is density of emigration and immigration flow between the adm1 level boundaries:
+![](_P3_D4.png)
+![](_P3_D5.png)
