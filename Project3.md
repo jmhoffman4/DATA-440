@@ -35,8 +35,8 @@ Using and pivoting the outmigration and inmigration statistics I was able to con
 Shown below is the gif produced by my ODM and gravity model:
 ![](output.gif)
 
-To modify the number of points departing from each origin, I would apply weighting based on the relative populations of each subdivision. I am unsure as to the professional value of making a change like this. /
-I think it would be ideal for most any Data Scientist to be able to accurately simulate migration across a larger amount of time. Being able to map a more “macro” trend of migration flows may indicate previously unknown characteristics about the Togo population. /
-The accuracy and precision of my own analysis is certainly not up to a professional standard. Given more time to accurately produce this research, the gravity model could potentially map highly accurate movements of the population over an extended period time. /
+To modify the number of points departing from each origin, I would apply weighting based on the relative populations of each subdivision. I am unsure as to the professional value of making a change like this.\
+I think it would be ideal for most any Data Scientist to be able to accurately simulate migration across a larger amount of time. Being able to map a more “macro” trend of migration flows may indicate previously unknown characteristics about the Togo population.\
+The accuracy and precision of my own analysis is certainly not up to a professional standard. Given more time to accurately produce this research, the gravity model could potentially map highly accurate movements of the population over an extended period time.\
 
 ## Q5
