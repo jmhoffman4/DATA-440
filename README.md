@@ -26,7 +26,7 @@
 
 ### Insights:
 [Insights 1](Insights.md)
-[Insights 2]
+[Insights 2](Insight2.md)
 [Insights 3]
 
 
